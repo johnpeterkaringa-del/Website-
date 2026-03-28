@@ -1,0 +1,5 @@
+{
+  "name": "SceneScript AI",
+  "description": "Generate AI-powered video scripts with prompts for images, voiceovers, music, and video generation.",
+  "requestFramePermissions": []
+}
